@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-##### Some of the technologies 
+##### Other technologies that I use
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
