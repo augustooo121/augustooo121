@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Web;Estudiante+Autodidacta;Lento+es+el+camino+más+rápido"></a>
 </p>
-<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="220px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ##### Basic Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
