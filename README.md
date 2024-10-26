@@ -16,8 +16,8 @@
 
 ##### Some of the technologies 
 
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
